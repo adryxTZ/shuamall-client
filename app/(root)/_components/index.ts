@@ -1,0 +1,10 @@
+export {default as Banner} from './banner/banner';
+export {default as ProductSection} from './productSection/products';
+export {default as ProductCard} from './productSection/productCard';
+export {default as CategorySection} from './categorySection/categorySection';
+export {default as ShopSection} from './shopSection/shopSection';
+export {default as ShopCard} from './shopSection/shopCard';
+export {default as AllShopProducts} from './shopAllProducts/AllShopProducts';
+export {default as ShopSideBar} from './sideBar/sideBar';
+export {default as ShopProductCard} from './shopAllProducts/poductCard'
+export {default as HomeProductDetails} from './shopAllProducts/product-details'
